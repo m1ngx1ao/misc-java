@@ -1,0 +1,5 @@
+#id;1st-lane-max-car;1st-lane-max-truck[;nth-lane-start-pos;nth-lane-max-car;nth-lane-max-truck]*
+Tunnel2;90;70;3;110;90
+Open3;130;130;3;130;130;2.5;130;130
+Construction1;50;50
+Construction2;50;50;2.5;70;0

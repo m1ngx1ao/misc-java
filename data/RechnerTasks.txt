@@ -1,0 +1,5 @@
+add 5.4
+multiply 3
+divide 0.2
+sub 9
+gcd 27

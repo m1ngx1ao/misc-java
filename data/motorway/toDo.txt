@@ -1,0 +1,5 @@
+* observation type stream also includes original observation (no stream merge!)
+* max-speed mapper gets this as input, adds max speed at end of output (needs cameras.csv (incl. lane offset) and lane determination logic)
+* fines mapper gets this as input, output must be as exFines.csv
+* same for prison
+* little bash script to get overall pipe saved within project
